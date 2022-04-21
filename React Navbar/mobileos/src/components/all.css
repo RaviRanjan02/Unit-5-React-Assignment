@@ -1,0 +1,21 @@
+.NavButton{
+    background-color:rgb(25, 112, 211);
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    color: white;
+}
+
+.Navlinks{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    color: white;
+    font-weight: bolder;
+}
+.NavLogo{
+    color: white;
+}
