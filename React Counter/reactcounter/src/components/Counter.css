@@ -1,0 +1,22 @@
+button{
+    margin:20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    background-color: coral;
+    padding: 10px;
+}
+
+.even{
+    color: green;
+}
+
+.odd{
+    color: red;
+}
+
+h1{
+    margin-left: 90px;
+    
+    
+}
