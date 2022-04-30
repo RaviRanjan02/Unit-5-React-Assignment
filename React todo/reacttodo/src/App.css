@@ -1,0 +1,59 @@
+body{
+  background-image: url("https://media.istockphoto.com/photos/hand-with-pencil-writing-check-mark-on-checklist-cropped-hand-marking-picture-id1369479342?b=1&k=20&m=1369479342&s=170667a&w=0&h=NzbFGIn3sq1v_wEgsANfVf4JelYTzGjw0Qtdg1a7Vco=");
+  background-repeat: no-repeat;
+  background-size: 130%;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+.maincon{
+  border: 1px solid rgb(148, 146, 146);
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+  color: rgb(27, 2, 97);
+  font-size: larger;
+  font-weight: bolder;
+  
+}
+
+
+
+
+.form{
+  /* border:1px solid red; */
+  width:300px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  
+  
+}
+
+.btntodo{
+  border:none;
+  padding: 10px;
+  color: rgb(255, 248, 249);
+  background-color: crimson;
+  border-radius: 10px;
+  font-weight: bolder;
+  font-size: large;
+  width: 200px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  
+}
+
+
+
+.todocss{
+  /* border:1px solid red; */
+  display: flex;
+ 
+}
+
+.vanish{
+  /* border:1px solid red;  */
+  cursor: pointer;
+  
+}
